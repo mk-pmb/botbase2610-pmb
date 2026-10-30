@@ -21,7 +21,9 @@
   "directories": { "test": "test" },
   "eslintConfig": { "extends": "nodejs-pmb" },
 
-  "dependencies": {},
+  "dependencies": {
+    "deep-freeze-es6": "^5.0.0"
+  },
   "devDependencies": {
     "eslint-config-nodejs-pmb": "^0.3.14",
     "eslint-plugin-json-light-pmb": "^1.0.7",
