@@ -22,7 +22,15 @@
   "eslintConfig": { "extends": "nodejs-pmb" },
 
   "dependencies": {
-    "deep-freeze-es6": "^5.0.0"
+    "deep-freeze-es6": "^5.0.0",
+    "delay": "^4.4.1",
+    "getown": "^1.0.2",
+    "lodash.mapvalues": "^4.6.0",
+    "objpop": "^0.3.6",
+    "p-while-undef": "^1.0.0",
+    "timestring-notsep": "^1.0.3",
+    "typechecks-pmb": "^0.240627.3",
+    "vtry": "^1.1.1"
   },
   "devDependencies": {
     "eslint-config-nodejs-pmb": "^0.3.14",
